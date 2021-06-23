@@ -1,10 +1,7 @@
 title: Michael Hall-Snyder 
 description:
 author: 
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-     linkedin: Michael Hall-Snyder 
+show_excerpts: false
 theme: minima
 
 header_pages:
