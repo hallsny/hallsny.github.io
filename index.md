@@ -1,7 +1,9 @@
 ---
 layout: home
 title: About
+
 ---
+
 ## Skills
  Software         | Mechanical        | Electrical               
 ------------------|-------------------|--------------------------
