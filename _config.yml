@@ -7,4 +7,4 @@ theme: minima
 header_pages:
   - _pages/frontpage.md
   - _pages/Contact.md
-  - _pages/Projects.md
+  - _pages/projects.md
