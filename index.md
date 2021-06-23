@@ -13,9 +13,9 @@ title: About
 </style>
 
 
- CATIA/ENOVIA     | Rapid Prototyping | Electromechanical design 
+ CATIA/ENOVIA     | Rapid prototyping | Electromechanical design 
  SOLIDWORKS       | CNC machining     | Altium                   
- ANSYS mechanical | Injection Molding | Fixture design      
+ ANSYS mechanical | Injection molding | Fixture design      
  Python           | Composites        | Reliability test design and instrumentation                         
 {: .tablelines}
 ## Experience
