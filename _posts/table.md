@@ -9,4 +9,4 @@ title: "table"
 * Custom aluminum mounts for glass top, Adhered with Optical UV cure adhesive
 * Custom welded legs
 
-![table](/table.jpg)
+![table](/Table.jpg)
