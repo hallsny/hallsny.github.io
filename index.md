@@ -3,7 +3,7 @@ layout: home
 title: About
 
 ---
-### Mechanical Engineer in the Bay Area with experience in mechanism design, injection molding, and simulation.
+### Mechanical Engineer in the Bay Area with experience in mechanism design, injection molding, and simulation
 
 ## Skills
 
