@@ -17,8 +17,8 @@ title: "Gyro Collection"
 
 
 ### Honeywell rate gyroscope with magnetic bearings
-![gyro](/gyro.jpg)
+![gyro](/photos/gyro.jpg)
 
 
 ### Honeywell LRG 
-![LRG](/gyro2.jpg)
+![LRG](/photos/gyro2.jpg)
