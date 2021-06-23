@@ -41,7 +41,7 @@ title: About
 * 6 month internship involving design, FEMAP/NASTRAN analysis, and manufacturing of spacecraft structures
 * Designed and built several full-size visual mockups of Dragon spacecraft components
 
-### __Stanford Solar Car Project__Stanford Undergraduate Research: 2013
+### __Stanford Solar Car Project__, Stanford Undergraduate Research: 2013
 * Managed internal CNC machine and programmed/machined several components for the 2013 solar car.
 * FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost.
 
