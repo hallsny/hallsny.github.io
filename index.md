@@ -5,13 +5,20 @@ title: About
 ---
 
 ## Skills
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
  Software         | Mechanical        | Electrical               
 ------------------|-------------------|--------------------------
  CATIA/ENOVIA     | Rapid Prototyping | Electromechanical design 
  SOLIDWORKS       | CNC machining     | Altium                   
  ANSYS mechanical | Injection Molding | Fixture/test design      
  Python           | Composites        |                          
-
+{: .tablelines}
 ## Experience
 
 #### Senior Mechanical Engineer, Waymo:  2018-2021  
