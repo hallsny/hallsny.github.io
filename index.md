@@ -27,5 +27,6 @@ title: Experience
 * $1.4 million car that drives at highway speeds in a 3000 km race across Australia
 * Managed internal CNC machine and programmed/machinedseveral of the componets for the 2013 solar car.
 * FEA analysis of suspension and crash analysis of composite chassis
+* 
 ### Education
 * Stanford University 2011-2013
