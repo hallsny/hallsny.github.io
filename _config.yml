@@ -1,13 +1,14 @@
 title: Michael Hall-Snyder 
 description:
 author: 
-show_excerpts: false
+#show_excerpts: true
 theme: minima
 
-header_pages:
-  - _pages/frontpage.md
-  - _pages/Contact.md
-  - _pages/projects.md
+#header_pages:
+#  - _pages/frontpage.md
+#  - _pages/Contact.md
+#  - _pages/projects.md
 
 include:
     - _pages
+    - _posts

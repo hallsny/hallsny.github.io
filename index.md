@@ -8,6 +8,9 @@ title: Experience
 * Designed and validated a high pressure automotive fluid pump system
 * Managed cleaning software features and specifications
 * Developed injected molded geometry for shear nozzles with custom spray fan angles and spread
+* Proposed and implemented a move of nozzle development in-house to minimize development schedule
+* Designed and validated several unique spray fan designs, all with integrated check valves, quick interconnects, and custom fan angles and spray pattern  
+* Managed DFM and assembly process flow to bring 5+ nozzles into production, including the development of leak testing
 * Designed, validated, and patented a precision timed spray/puff solution for increased efficiency for rotating window sensors
 * Developed test specifications for several high vehicle speed structured cleaning tests
 * Designed and validated manufacturing process for fixing lidar barrel assembly only after heat soaker to allow for balance adjustment in fully assembled state
@@ -26,7 +29,7 @@ title: Experience
 * Full time summer employment with the Stanford Solar Car Project which designs and builds a
 * $1.4 million car that drives at highway speeds in a 3000 km race across Australia
 * Managed internal CNC machine and programmed/machinedseveral of the componets for the 2013 solar car.
-* FEA analysis of suspension and crash analysis of composite chassis
+* FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost.
 
 #### Education
 * Stanford University 2011-2013
