@@ -29,7 +29,7 @@ title: Experience
 * Full time summer employment with the Stanford Solar Car Project which designs and builds a
 * $1.4 million car that drives at highway speeds in a 3000 km race across Australia
 * Managed internal CNC machine and programmed/machinedseveral of the componets for the 2013 solar car.
-* FEA analysis of suspension and crash analysis of composite chassis
+* FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost.
 
 #### Education
 * Stanford University 2011-2013
