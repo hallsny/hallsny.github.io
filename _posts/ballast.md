@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gyro Collection"
+title: "Ballast"
 ---
 
 #### Loon ballast subsystem
