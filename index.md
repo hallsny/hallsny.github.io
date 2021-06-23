@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Experience
 ---
 #### Senior Mechanical Engineer, Waymo:  2018-2021  
