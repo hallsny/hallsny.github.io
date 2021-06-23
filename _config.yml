@@ -13,6 +13,3 @@ header_pages:
   - _posts/3dprint.md
   
 
-include:
-    - _pages
-    - _posts
