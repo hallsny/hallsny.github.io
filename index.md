@@ -1,14 +1,16 @@
 ---
 layout: home
-title: Experience
+title: About
 ---
-### Skills
+## Skills
 | Software | Hardware | Electrical |
 |-|-|-|
 | CATIA/ENOVIA | Rapid Prototyping | Electromechanical design |
 | SOLIDWORKS | CNC machining | Altium |
 | ANSYS mechanical | Injection Molding | Fixture/test design |
 | Python | Composites |  |
+
+## Experience
 
 #### Senior Mechanical Engineer, Waymo:  2018-2021  
 * Owner of semi truck roof cleaning system, including nozzles, wipers, and system layout
