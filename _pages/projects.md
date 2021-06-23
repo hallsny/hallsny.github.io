@@ -4,7 +4,7 @@ layout: page
 title: Projects
 ---
 
-# Waymo Nozzle development
+# Waymo nozzle development
 * Proposed and implemented a move of nozzle development in-house to minimize development schedule
 * Designed and validated several unique spray fan designs, all with integrated check valves, quick interconnects, and custom fan angles and spray pattern  
 * Managed DFM and assembly process flow to bring 5+ nozzles into production, including the development of leak testing
