@@ -18,7 +18,7 @@ title: Experience
 * Designed and filed several patents for automatic balloon launching
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis 
 
-#### 2013-2014	Structural engineer,SpaceX: 2013-2014	
+#### 2013-2014	Structural engineer, SpaceX: 2013-2014	
 * 6 month internship involving design, FEMAP/NASTRAN analysis, and manufacturing of spacecraft structures
 * Designed and built several full-size visual mockups of Dragon spacecraft components
 
