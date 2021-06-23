@@ -12,8 +12,7 @@ title: About
         }
 </style>
 
- Software         | Mechanical        | Electrical               
-------------------|-------------------|--------------------------
+
  CATIA/ENOVIA     | Rapid Prototyping | Electromechanical design 
  SOLIDWORKS       | CNC machining     | Altium                   
  ANSYS mechanical | Injection Molding | Fixture design      
