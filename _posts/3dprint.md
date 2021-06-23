@@ -3,7 +3,7 @@ layout: post
 title: "3D-Printers"
 ---
 
-###Modified Prusa mk3 for high temeprature printing
+### Modified Prusa mk3 for high temeprature printing
 ![printer](/3dprint.jpg)
 
 ### Modified Voron 0 for High speed printing
