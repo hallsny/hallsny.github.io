@@ -1,5 +1,5 @@
 ---
-permalink: /archive
+permalink: /projects
 layout: page
 title: Projects
 ---
