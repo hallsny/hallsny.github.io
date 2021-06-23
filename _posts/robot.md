@@ -9,5 +9,7 @@ title: "Robot"
 * Custom flat main weapon motor
 * AR500 weapon disk
 * Competed in Sparkfun AVC , 4-1 win-Loss
+
 ![robot](/photos/robot.jpg)
+
 ![robot1](/photos/robot2.jpg)
