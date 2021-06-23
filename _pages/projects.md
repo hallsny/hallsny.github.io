@@ -1,4 +1,8 @@
+---
+permalink: /archive
+layout: page
 title: Projects
+---
 
 # Waymo Nozzle development
 * Proposed and implemented a move of nozzle development in-house to minimize development schedule
