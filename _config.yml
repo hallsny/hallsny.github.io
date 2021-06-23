@@ -5,8 +5,7 @@ author: "Michael Hall-Snyder"
 theme: minima
 
 header_pages:
-  - _pages/frontpage.md
-  - _pages/Contact.md
-  - _pages/projects.md
-include:
-    - _pages
+  frontpage.md
+  Contact.md
+  projects.md
+
