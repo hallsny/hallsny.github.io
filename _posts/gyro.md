@@ -3,7 +3,7 @@ layout: post
 title: "Gyro Collection"
 ---
 ### Custom reaction wheel inverted pendulum
-* Python implemented Controller
+* LQR Controller
 * IMU feedback for angle
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6lg5TXe5yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
