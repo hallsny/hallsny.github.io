@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "launch"
+title: "Launch"
 ---
 
 #### Loon automated balloon launching
