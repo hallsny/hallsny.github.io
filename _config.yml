@@ -4,10 +4,14 @@ author:
 #show_excerpts: true
 theme: minima
 
-#header_pages:
-#  - _pages/frontpage.md
-#  - _pages/Contact.md
-#  - _pages/projects.md
+header_pages:
+  - _posts/ballast.md
+  - _posts/disconnect.md
+  - _posts/robot.md
+  - _posts/gyro.md
+  - _posts/launch.md
+  - _posts/3dprint.md
+  
 
 include:
     - _pages
