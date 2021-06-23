@@ -11,3 +11,4 @@ header_pages:
 
 include:
     - _pages
+    - _posts
