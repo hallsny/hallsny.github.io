@@ -48,4 +48,7 @@ header_pages:
   - _posts/launch.md
   - _posts/3dprint.md
   
+  include:
+    - _posts
+  
 
