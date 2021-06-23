@@ -30,8 +30,7 @@ title: About
 * Proposed and implemented a move of nozzle development in-house to minimize development schedule  
 * Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor.
 * Designed, validated, and patented a precision timed spray/puff solution for increased efficiency for rotating sensors
-* Developed test specifications for several high vehicle speed structured cleaning tests
-* Designed and validated manufacturing process for fixing lidar barrel assembly only after heat soaker to allow for balance adjustment in fully assembled state
+* Designed and validated manufacturing process  to allow for lidar balance adjustment in fully assembled state
 
 #### Mechanical Engineer, Loon: 2014-2018	
 * Designed and implemented a novel magnetic valve for ballast operation
