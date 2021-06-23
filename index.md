@@ -1,7 +1,4 @@
 
-
-
-# Experience
 ### Senior Mechanical Engineer, Waymo:  2018-2021  
 * Designed semi truck roof cleaning system, including nozzles, wipers, and system layout
 * Proposed plan of record for sensor layout + structure for semi truck roof mounted sensor assembly
