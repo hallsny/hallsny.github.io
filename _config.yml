@@ -1,7 +1,9 @@
 title: Michael Hall-Snyder 
-description: My very nice blog
+description:
 author: "Michael Hall-Snyder"
 
+social_links:
+  linkedin: Michael Hall-Snyder 
 theme: minima
 
 header_pages:
