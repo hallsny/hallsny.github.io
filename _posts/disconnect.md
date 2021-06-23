@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Payload disconnect"
+title: "Disconnect"
 ---
 
 #### Payload Separation
