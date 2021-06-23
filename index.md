@@ -4,6 +4,7 @@ title: About
 
 ---
 ### Mechanical Engineer in the Bay Area with experience in mechanism design, injection molding, and simulation.
+
 ## Skills
 
 <style>
@@ -45,5 +46,5 @@ title: About
 * Managed internal CNC machine and programmed/machined several components for the 2013 solar car.
 * FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost.
 
-### Education
+### __Education__
 * Stanford University 2011-2013
