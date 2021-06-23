@@ -28,8 +28,8 @@ title: About
 * Developed injected molded geometry for shear nozzles with custom spray fan angles and spread
 * Proposed and implemented a move of nozzle development in-house to minimize development schedule  
 * Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor.
-* Designed, validated, and patented a precision timed spray/puff solution for increased efficiency for rotating sensors
-* Designed and validated manufacturing process  to allow for lidar balance adjustment in fully assembled state
+* Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors
+* Designed and validated manufacturing process  to allow for lidar balance adjustment in a fully assembled state
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
 * Designed and implemented a novel magnetic valve for ballast operation
