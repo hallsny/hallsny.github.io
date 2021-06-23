@@ -3,12 +3,12 @@ layout: home
 title: About
 ---
 ## Skills
-| Software | Hardware | Electrical |
-|-|-|-|
-| CATIA/ENOVIA | Rapid Prototyping | Electromechanical design |
-| SOLIDWORKS | CNC machining | Altium |
-| ANSYS mechanical | Injection Molding | Fixture/test design |
-| Python | Composites |  |
+| Software         | Mechanical        | Electrical               |
+|------------------|-------------------|--------------------------|
+| CATIA/ENOVIA     | Rapid Prototyping | Electromechanical design |
+| SOLIDWORKS       | CNC machining     | Altium                   |
+| ANSYS mechanical | Injection Molding | Fixture/test design      |
+| Python           | Composites        |                          |
 
 ## Experience
 
