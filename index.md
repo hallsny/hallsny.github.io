@@ -24,7 +24,7 @@ title: About
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
 * Owner of vehicle roof cleaning systems, including nozzles, wipers, and system layout
 * Proposed plan of record for sensor layout + structure for semi truck roof mounted sensor assembly
-* Designed and validated a high pressure automotive fluid pump system
+ {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
 * Managed cleaning software features and specifications
 * Developed injected molded geometry for shear nozzles with custom spray fan angles and spread
 * Proposed and implemented a move of nozzle development in-house to minimize development schedule  
