@@ -49,3 +49,6 @@ title: About
 
 ### __Education__
 * Stanford University 2011-2013
+
+### Projects
+
