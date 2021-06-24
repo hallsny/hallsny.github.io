@@ -22,8 +22,8 @@ title: About
 ## Experience
 
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
-* Owner of vehicle roof cleaning systems, including nozzles, wipers, and system layout
-* To solve an issue around inreasing part count and manufacturing step, Proposed plan of record for sensor layout + structure for semi truck roof mounted sensor assembly
+* Due toincreasing requirements on  sensor range, resolution, and accuracy, fouling management has beome a critical component of the waymo vehicle.  I am the owner of  roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
+* To solve an issue around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
 * Managed cleaning software features and specifications
 * Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread
