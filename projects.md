@@ -1,3 +1,11 @@
+---
+layout: page
+title: Projects
+
+---
+
+
+
 * [Loon ballast](https://hallsny.github.io/_posts/ballast.html)
 * [Payload sepration](https://hallsny.github.io/_posts/disconnect.html)
 * [30 pound combat robot](https://hallsny.github.io/_posts/robot.html)
