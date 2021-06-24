@@ -25,26 +25,26 @@ title: About
 * Due toincreasing requirements on  sensor range, resolution, and accuracy, fouling management has beome a critical component of the waymo vehicle.  I am the owner of  roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
 * To solve an issue around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
-* Managed cleaning software features and specifications
-* Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread
-* Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor
+* Managed cleaning software features and specifications.
+* Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread.
+* Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor..
 * Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors 
-* To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state
+* To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state.
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
-* With the open-ended request to extend super pressure ballon life in the stratosphere , I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks.
+* With the open-ended request to extend super-pressure ballon life in the stratosphere , I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks.
 * 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload. 
-* In an effort to reduce payload structure assembly cost while maintaining excellent strength to weight ratio, designed and validated several carbon-plastic adhesive interfaces
-* Designed and filed several patents for automatic balloon launching
-* 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis 
+* In an effort to reduce payload structure assembly cost while maintaining excellent strength to weight ratio, designed and validated several carbon-plastic adhesive interfaces.
+* Designed and filed several patents for automatic balloon launching.
+* 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis.
 
 ### __SpaceX__, Structural Engineer: 2013-2014	
-* 6 month internship involving design, FEMAP/NASTRAN analysis, and manufacturing of spacecraft structures
-* Designed and built several full-size visual mockups of Dragon spacecraft components
+* 6 month internship involving design, FEMAP/NASTRAN analysis, and manufacturing of spacecraft structures.
+* Designed and built several aluminum weldments and machined mounts for the interior of the Dragon spacecraft.
 
 ### __Stanford Solar Car Project__, Stanford Undergraduate Research: 2013
-* Managed internal CNC machine and programmed/machined several components for the 2013 solar car
-* FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost
+* Managed internal CNC machine and programmed/machined several components for the 2013 solar car.
+* FEA analysis of suspension and completed static structural analysis of a composite vehicle chassis including honeycomb Nomex core, ply number and orientation in ANSYS Composite PrepPost.
 
 ### __Education__
 * Stanford University 2011-2013
