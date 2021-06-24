@@ -23,19 +23,18 @@ title: About
 
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
 * Owner of vehicle roof cleaning systems, including nozzles, wipers, and system layout
-* Proposed plan of record for sensor layout + structure for semi truck roof mounted sensor assembly
+* To solve an issue around inreasing part count and manufacturing step, Proposed plan of record for sensor layout + structure for semi truck roof mounted sensor assembly
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
 * Managed cleaning software features and specifications
-* Developed injected molded geometry for shear nozzles with custom spray fan angles and spread
-* Proposed and implemented a move of nozzle development in-house to minimize development schedule  
+* Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread
 * Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor
-* Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors
-* Designed and validated manufacturing process  to allow for lidar balance adjustment in a fully assembled state
+* Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors 
+* To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
-* Designed and implemented a novel magnetic valve for ballast operation
-* 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload
-* Designed and validated several carbon-plastic adhesive interfaces.
+* WIth the open-ended request to extend super pressure ballon life in the stratosphere , I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks.
+* 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload. 
+* In an effort to reduce assembly cost while maintaining excellent strnegth to weight ratio, designed and validated several carbon-plastic adhesive interfaces
 * Designed and filed several patents for automatic balloon launching
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis 
 
