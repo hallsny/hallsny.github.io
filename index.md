@@ -32,10 +32,10 @@ title: About
 * To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state.
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
-* In response to an open-ended request to extend super-pressure balloon life in the stratosphere, I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks. On a low leak rate ballon this system could increase the lifespan of a balloon by months, greatly dcreasing amortized system cost.
+* In response to an open-ended request to extend super-pressure balloon life in the stratosphere, I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks. On a low leak rate ballon, this system could increase the lifespan of a balloon by months, greatly decreasing amortized system cost.
 * 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload. 
-* In an effort to reduce payload structure assembly cost while maintaining excellent strength to weight ratio, designed and validated several carbon-plastic adhesive interfaces.
-* Designed systems relateing to payload handling and filed several patents for automatic balloon launching.
+* In an effort to reduce payload structure assembly cost while maintaining excellent strength-to-weight ratio,  I designed and validated several carbon-plastic adhesive interfaces.
+* Designed pneumatic systems and structures for payload handling during automatic balloon launching.
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis.
 
 ### __SpaceX__, Structural Engineer: 2013-2014	
