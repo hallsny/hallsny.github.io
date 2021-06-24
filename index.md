@@ -22,7 +22,7 @@ title: About
 ## Experience
 
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
-* Due to increasing requirements on  sensor range, resolution, and accuracy, fouling management has beome a critical component of the waymo vehicle.  I am the owner of  roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
+* Due to increasing requirements on  sensor range, resolution, and accuracy, fouling management became a critical component of the waymo vehicle.  I own the roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
 * To solve an issue around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
 * Managed cleaning software features and specifications.
