@@ -22,19 +22,19 @@ title: About
 ## Experience
 
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
-* Due to increasing requirements on  sensor range, resolution, and accuracy, fouling management became a critical component of the waymo vehicle.  I own the roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
+* Due to increasing requirements on  sensor range, resolution, and accuracy, fouling management became a critical component of the Waymo vehicles.  I own the roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
 * To solve issues around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
+* Faced with long lead times and a lack of existing nozzles that were compatible with our vehicle packaging requirements, I developed injected molded geometry for shear nozzles with custom spray fan angles and spread.
 * Managed cleaning software features and specifications.
-* Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread.
-* Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor..
-* Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors 
-* To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state.
+* Managed DFM and assembly process flow to bring 5+ nozzles into production, including on-site support of tooling vendor.
+* Designed, validated, and patented a precision timed spray/puff solution to increase system efficiency for rotating sensors.
+* To reduce the risk associated with an open reliability issue, I designed and validated a manufacturing process to increase rigiditiy of the system while still allowing for lidar adjustment in a fully assembled state.
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
-* In response to an open-ended request to extend super-pressure balloon life in the stratosphere, I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks. On a low leak rate ballon, this system could increase the lifespan of a balloon by months, greatly decreasing amortized system cost.
+* In response to an open-ended request to extend super-pressure balloon life in the stratosphere, I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks. On a low leak rate ballon, this system increased the lifespan of a balloon by months, greatly decreasing amortized system cost.
 * 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload. 
-* In an effort to reduce payload structure assembly cost while maintaining excellent strength-to-weight ratio,  I designed and validated several carbon-plastic adhesive interfaces.
+* In an effort to reduce payload structure assembly cost while maintaining excellent strength-to-weight ratio, I designed and validated several carbon-plastic adhesive interfaces.
 * Designed pneumatic systems and structures for payload handling during automatic balloon launching.
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis.
 
