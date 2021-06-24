@@ -23,7 +23,7 @@ title: About
 
 ### __Waymo__, Senior Mechanical Engineer:  2018-2021  
 * Due to increasing requirements on  sensor range, resolution, and accuracy, fouling management became a critical component of the waymo vehicle.  I own the roof cleaning systems on multiple vehicle types, including nozzles, wipers, and system layout for lidar and surround view cameras.
-* To solve an issue around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
+* To solve issues around increasing part count and manufacturing steps,  I proposed a modifed sensor layout + structure for semi truck roof mounted sensor assembly. This design was accepted as plan of record.
  {::comment} * Designed and validated a high pressure automotive fluid pump system {:/comment}
 * Managed cleaning software features and specifications.
 * Faced with long lead times ad a lack of existing nozzle that packaged within our vehicle , I developed injected molded geometry guidelines  for shear nozzles with custom spray fan angles and spread.
@@ -32,10 +32,10 @@ title: About
 * To reduce the risk associated an open reliability issue I designed and validated manufacturing process to significantly increase rigiditiy of the system while still  allowing  for lidar adjustment in a fully assembled state.
 
 ### __Loon__, Mechanical Engineer: 2014-2018	
-* With the open-ended request to extend super-pressure ballon life in the stratosphere , I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks.
+* In response to the open-ended request to extend super-pressure balloon life in the stratosphere, I designed and implemented a novel magnetic ballast that allowed ground control to automatically compensate for altitude loss due to helium leaks.
 * 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload. 
 * In an effort to reduce payload structure assembly cost while maintaining excellent strength to weight ratio, designed and validated several carbon-plastic adhesive interfaces.
-* Designed and filed several patents for automatic balloon launching.
+* Designed systems relateing to payload handling and filed several patents for automatic balloon launching.
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis.
 
 ### __SpaceX__, Structural Engineer: 2013-2014	
