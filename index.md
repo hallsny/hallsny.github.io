@@ -35,7 +35,7 @@ title: About
 ### __Loon__, Mechanical Engineer: 2014-2018	
 * Designed and implemented a novel magnetic valve for ballast operation
 * 30+ unique molded parts designed, analyzed, and implemented for various subsystems of the Loon flight system including balloon and payload
-* Design and validated several carbon-plastic adhesive interfaces.
+* Designed and validated several carbon-plastic adhesive interfaces.
 * Designed and filed several patents for automatic balloon launching
 * 20+  ANSYS simulation projects including structural FEA, modal, and buckling analysis 
 
